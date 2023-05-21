@@ -17,9 +17,9 @@ Config.Theme = {
         },
         {
             id = "qb-core",
-            borderRadius = "3vh",
-            fontColor = "255, 255, 255",
-            fontColorHover = "255, 255, 255",
+            borderRadius = "2vh",
+            fontColor = "58, 190, 255",
+            fontColorHover = "38, 255, 230",
             fontColorSelected = "255, 255, 255",
             fontFamily = "Poppins",
             primaryBackground = "220, 20, 60",
